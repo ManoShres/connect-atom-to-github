@@ -1,5 +1,5 @@
 # Hello Everyone
----
+
 ### Assuming you have already install atom in your system.
 #### Follow the steps for you to connect [Atom](https://atom.io/) with [GitHub](https://github.com/)
 
@@ -23,7 +23,7 @@
 
 4 . **Open your Atom application**
   * Hold *Ctrl+Shift+P*, search for GitHub:Clone and press Enter
-  * Paste *Ctrl+V* on **from** section and remember the **to directory** section or change the **to directory** section to your desire
+  * Paste *Ctrl+V* on **Clone from** section and remember the **to directory** section or change the **to directory** section to your desire
   * Toggle GitHub tab *Ctrl+Shift+8* from **Packages -> GitHub -> Toggle GitHub tab**
 
 
