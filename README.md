@@ -1,4 +1,4 @@
-# Hello Everyone
+# Connect Atom to GitHub
 
 ### Assuming you have already install atom in your system.
 #### Follow the steps for you to connect [Atom](https://atom.io/) with [GitHub](https://github.com/)
